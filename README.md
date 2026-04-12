@@ -12,7 +12,9 @@
 
 **A comprehensive data analytics & machine learning system analyzing 10 years of Toronto Island Ferry operations (2015–2026)**
 
-[🚀 Live Dashboard](https://ferry-analytics-i2sepxvk8ppeubc5erb6pq.streamlit.app/) · [📊 Dataset](https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/) · [📄 Report](ferry_analytics_report.docx](https://github.com/user-attachments/files/26655786/ferry_analytics_report.docx)
+**operations (2015–2026)**
+
+🚀 [Live Dashboard](https://ferry-analytics-i2sepxvk8ppeubc5erb6pq.streamlit.app/) · 📊 [Dataset](https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/) · 📄 [Report](https://github.com/user-attachments/files/26655786/ferry_analytics_report.docx)
 
 
 ---
